@@ -73,7 +73,7 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=Bryson69&show_icons=true&count_private=true&hide_border=true" />
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=Barrack-coder&show_icons=true&count_private=true&hide_border=true" />
     </td>
   </tr>
   <tr>
