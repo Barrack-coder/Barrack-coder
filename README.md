@@ -61,7 +61,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong>  I'm proud to be part of EddieHub Community </strong><br>
+      <strong>  I'm proud to be part of EddieHub Community </strong><br><br>
       <table>
         <tr>
           <td align="center">
