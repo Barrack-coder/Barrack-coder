@@ -67,3 +67,31 @@
 
 <hr>
 <hr>
+## Github Stats  
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong>  I'm proud to be part of EddieHub Community </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=Bryson69&show_icons=true&count_private=true&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson69&hide_border=true&layout=compact">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bryson69&hide_border=true">
+    </td>
+  </tr>
+</table>
