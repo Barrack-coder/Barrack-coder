@@ -43,7 +43,7 @@
     📈  &nbsp; My GitHub Stats
   </summary> 
   
-  <br>
+  <!-- <br>
 
   <p align="center">
    <a href="https://github.com/Barrack-coder">
@@ -57,17 +57,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Barrack-coder}/count.svg" /></p> 
 <br></div>
 
-<br>
-
-### 🤝🏻  &nbsp; Let's Connect 
-
-- linkedIn: [Barrack-Juma]https://www.linkedin.com/in/barrack-juma-82081a215/)
-- twitter: [@Barry lemayian](https://twitter.com/BarryLemayian)
-- email: jumabarrack17@gmail.com
-
-<hr>
-<hr>
-## Github Stats  
+<br> -->
 <table align="center" width="100%">
   <tr>
     <td align="center">
@@ -88,10 +78,19 @@
   </tr>
   <tr>
           <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson69&hide_border=true&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrack-coder&hide_border=true&layout=compact">
           </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bryson69&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Barrack-coder&hide_border=true">
     </td>
   </tr>
 </table>
+
+### 🤝🏻  &nbsp; Let's Connect 
+
+- linkedIn: [Barrack-Juma]https://www.linkedin.com/in/barrack-juma-82081a215/)
+- twitter: [@Barry lemayian](https://twitter.com/BarryLemayian)
+- email: jumabarrack17@gmail.com
+
+<hr>
+<hr>
