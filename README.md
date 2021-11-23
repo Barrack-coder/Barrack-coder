@@ -10,6 +10,7 @@
 
 - 🔭  I’m daily working on **Sharpening my skills and developing projects with developers from all over the globe.**
 - ⚡  Fact: **"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).**
+- ⚡  Fact: **Many coding languages share similar features, so it’s easier to pick up another language once you know one..**
 - 👯  I’m looking forward to collaborate on **Python, Angular,JavaScript,Django Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, History, Art.**
 
